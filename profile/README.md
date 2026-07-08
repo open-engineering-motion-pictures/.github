@@ -2,6 +2,8 @@
 
 Bringing engineering to life through moving images.
 
+![Open Engineering Motion Pictures hero banner](./hero-banner.png)
+
 Open Engineering Motion Pictures is part of the Open Engineering ecosystem.
 
 Its mission is to create, produce, and publish high-quality motion picture assets that explain, educate, inspire, and entertain through film, animation, and AI-generated video.
